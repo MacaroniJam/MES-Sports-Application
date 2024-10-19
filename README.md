@@ -3,4 +3,4 @@ This repository contains the project that was done for my Object Oriented Progra
 
 [Project Description and Rules]()
 
-[Documentation and User Manual](MES-Sport-Application/Documentation-and-User-Manual.pdf)
+[Documentation and User Manual](MES-Sport-Application/Documentation%20and%20User%20Manual.pdf)
