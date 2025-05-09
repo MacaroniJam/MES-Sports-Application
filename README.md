@@ -10,7 +10,7 @@ The MES Sports Application can be used by five users: admin, athlete, agent, coa
 
 ### How to Login
   1. Open the application to view the User Select Menu. Click the respective user type to access the Login Menu.
-  2. In the Login Menu, enter the username and password in the text boxes provided and press the Login button (to check how to create a username and password, please check the [Admin Guide](https://github.com/MacaroniJam/MES-Sport-Application/edit/main/README.md#admin-guide)).
+  2. In the Login Menu, enter the username and password in the text boxes provided and press the Login button (to check how to create a username and password, please check the [Admin Guide](#admin-guide)).
   3. If the login is successful, a push notification box will appear, press the ok button to view the Main Menu.
   4. If the login attempt fails, a push notification box shows the remaining login attempts. Press the ok button to access the Login Menu again. If the user runs out of login attempts, then the application will shut down.
 
