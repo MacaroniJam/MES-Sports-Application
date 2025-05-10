@@ -5,6 +5,8 @@ This repository contains a project that was done for my Object Oriented Programm
 
 [Documentation and User Manual](https://github.com/MacaroniJam/MES-Sports-Application/blob/main/Documentation%20and%20User%20Manual.pdf)
 
+[Application and Source Code Download](https://github.com/MacaroniJam/MES-Sports-Application/releases/tag/v1.0.0) 
+
 ## Instructions of use
 The MES Sports Application can be used by five users: admin, athlete, agent, coach, and association.
 
