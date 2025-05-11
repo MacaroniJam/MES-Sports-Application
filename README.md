@@ -1,5 +1,5 @@
 # MES Sports Application
-This repository contains a group project for a GUI Sports Management application for an Object-Oriented Programming module in 2024.
+This repository contains a group project for a GUI Sports Management Application for an Object-Oriented Programming module in 2024.
 
 [Project Description and Rules](https://github.com/MacaroniJam/MES-Sports-Application/blob/main/OOP%20Group%20Project%20SEM2-AY2023-24%20Description.pdf)
 
