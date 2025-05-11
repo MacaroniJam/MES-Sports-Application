@@ -1,5 +1,5 @@
 # MES-Sports-Application
-This repository contains a project that was done for my Object Oriented Programming Module in 2024 in my first year of college
+This repository contains a GUI project that was done for our Object Oriented Programming Module in 2024 in our first year of college
 
 [Project Description and Rules](https://github.com/MacaroniJam/MES-Sports-Application/blob/main/OOP%20Group%20Project%20SEM2-AY2023-24%20Description.pdf)
 
